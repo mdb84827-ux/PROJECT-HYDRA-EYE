@@ -9,3 +9,25 @@ Decrypting the human element. A specialized Termux implementation for generating
 ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
           [ PROJECT: HYDRA-CUPP ]
       [ STATUS: OPERATIONAL IN TERMUX ]
+
+---
+
+## Commands
+
+```
+pkg update && pkg upgrade -y
+```
+
+## Install Cupp
+
+```
+pkg install python git -y
+git clone https://github.com/Mebus/cupp.git
+cd cupp
+```
+
+## Run Cupp
+
+```
+python cupp.py -i
+```
