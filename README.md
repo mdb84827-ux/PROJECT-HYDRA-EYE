@@ -1,5 +1,7 @@
 # PROJECT-HYDRA-EYE
 
+In the digital void, passwords are just echoes. PROJECT-HYDRA-EYE bridges the gap between social engineering and raw power. By utilizing CUPP to forge custom wordlists from user data and Hydra to breach the gates, this Termux-native toolkit proves that security is often an illusion. Your phone is no longer a device—it is a skeleton key.
+
 ![Cupp Screenshot](20260507_170554.jpg)
 
 Decrypting the human element. A specialized Termux implementation for generating social-engineered payloads via CUPP and deploying them through the Hydra engine. Silence is the only requirement.
@@ -34,4 +36,4 @@ cd cupp
 ```
 python cupp.py -i
 ```
-POWERED BY OMI
+Powered by Omi
